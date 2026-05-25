@@ -7,3 +7,5 @@ Choose a research paper from a recognized journal or conference (e.g., IEEE, Spr
 Dataset Used: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
 Kaggle Notebook: https://www.kaggle.com/code/xinruizhuang/skin-lesion-classification-acc-90-pytorch/notebook
+
+Springer Research Paper: https://link.springer.com/article/10.1007/s42979-025-04375-6
